@@ -1,9 +1,9 @@
 
 ```npm
-    $ npm install
+    npm install
 ```
 
 ```npm
-    $ npm  start
+    npm  start
 ```
 
