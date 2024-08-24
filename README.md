@@ -32,5 +32,5 @@ Este projeto foi objeto de pesquisa do meu TCC na conclusão do curso de engenha
     - CSS3
 
 # Mais
-Se você curtiu a ideia ou quer dar uma olhada no projeto, ele está online no github pages e você pode acessa-lo clicando <a href="https://terpazmaps.github.io/TerPaz-Maps">AQUI</a>.
+Se você curtiu a ideia ou quer dar uma olhada no projeto, ele está online no github pages e você pode acessa-lo clicando <a href="https://terpazmaps.github.io/TerPazMaps_front">AQUI</a>.
 
