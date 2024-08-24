@@ -1,8 +1,8 @@
 {
   "name": "projeto-maps",
   "version": "0.1.0",
+  "homepage": "https://terpazmaps.github.io/TerPazMaps_front/",
   "private": true,
-  "homepage": "https://terpazmaps.github.io/TerPazMaps_front",
   "dependencies": {
     "@react-google-maps/api": "^2.12.1",
     "@testing-library/jest-dom": "^5.16.5",
