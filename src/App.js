@@ -20,8 +20,8 @@ function App() {
         <Route path='statistics' element={<Statistics/>} />
         <Route path='about' element={<About/>} />
         <Route path='credits' element={<Credits/>} />
-        <Route path="/TerPaz-Maps" exact={true} element={<Main/>}></Route>
-        <Route path="/TerPaz-Maps" element={<Main/>}/>
+        <Route path="/TerPazMaps_front" exact={true} element={<Main/>}></Route>
+        <Route path="/TerPazMaps_front" element={<Main/>}/>
       </Routes>
     </Router>
     </>

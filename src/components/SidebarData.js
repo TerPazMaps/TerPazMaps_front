@@ -4,7 +4,7 @@ import * as AiIcons from 'react-icons/ai'
 export const SidebarData = [
     {
         title: 'Navegar',
-        path: '/TerPaz-Maps',
+        path: '/TerPazMaps_front',
         icon: <AiIcons.AiOutlineEnvironment/>,
         cName: 'nav-text'
     },
