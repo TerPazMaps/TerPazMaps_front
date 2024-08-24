@@ -49,7 +49,7 @@ function RegionDrawConfig(props){
             <OverlayView position={path} key={index} mapPaneName={OverlayView.OVERLAY_MOUSE_TARGET}>
                 
                    <div 
-                        style={{'--MainColor': '#8CDC04'}} 
+                        style={{'--MainColor': '#ff0000'}} 
                         className='marker-disposal'
                    >
                         <img src={trashSvg} alt="disposal icon" className="disposal-icon"/>
