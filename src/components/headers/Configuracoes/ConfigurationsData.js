@@ -5,7 +5,7 @@ const ConfigurationsData = [
     },
     {
         name: 'Mostrar pontos de descarte irregular de lixo',
-        color: {backgroundColor: '#ff0000'}
+        color: {backgroundColor: '#556B2F'}
     }
 ]
 
