@@ -26,8 +26,8 @@ const SubStreet = [
         color: '#000',
     },
     {
-        name: 'Pontos de coleta de lixo',
-        color: '#41D606'
+        name: 'Pontos de descarte irregular de lixo',
+        color: '#556B2F'
     }
 ]
 
