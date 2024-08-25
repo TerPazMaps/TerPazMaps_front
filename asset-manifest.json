@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TerPazMaps_front/static/css/main.3e9fa2d4.css",
-    "main.js": "/TerPazMaps_front/static/js/main.fb1f9843.js",
+    "main.js": "/TerPazMaps_front/static/js/main.ea7624da.js",
     "static/media/trash.svg": "/TerPazMaps_front/static/media/trash.3b265dce34b33b5d85e88a71203a5d05.svg",
     "index.html": "/TerPazMaps_front/index.html",
     "main.3e9fa2d4.css.map": "/TerPazMaps_front/static/css/main.3e9fa2d4.css.map",
-    "main.fb1f9843.js.map": "/TerPazMaps_front/static/js/main.fb1f9843.js.map"
+    "main.ea7624da.js.map": "/TerPazMaps_front/static/js/main.ea7624da.js.map"
   },
   "entrypoints": [
     "static/css/main.3e9fa2d4.css",
-    "static/js/main.fb1f9843.js"
+    "static/js/main.ea7624da.js"
   ]
 }
